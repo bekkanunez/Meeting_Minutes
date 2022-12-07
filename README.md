@@ -1,2 +1,2 @@
-# project_awesome
-culmination project using react as front-end, GraphQL with Node.js and Express.js server, MongoDB and Mongoose ODM for databases, using queries and mutations for CRUD operations, and ultimately have it deployed on Heroku (with data).
+# Meeting_Minutes
+It is an application that meeting attendees can type their notes (in a comment section) into and reference notes later, it contains meeting minutes (time stamp), notes meeting attendees and role, provide meeting title, department (optional) and description
