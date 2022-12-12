@@ -17,6 +17,11 @@ const meetingSchema = new Schema({
         required: true,
         trim: true,
     },
+    meetingTitle: {
+        type:String,
+        required: true,
+        trim: true,
+    },
     meetingDate: {
         type: String,
         required: true,

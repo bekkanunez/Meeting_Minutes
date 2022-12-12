@@ -1,0 +1,37 @@
+[
+    {
+        "meetingText": "Today we reviewed the timetable for the new project. All roles have been established and ideas will be shared at following meeting. Everyone will reconvene in person at 4pm.",
+        "meetingHost": "Alexis Mejorado",
+        "department": "Engineering",
+        "meetingTitle": "Initial engineering meeting",
+        "meetingDate": "11/12/22"
+    },
+    {
+        "meetingText": "Short meeting regarding reimbursements.",
+        "meetingHost": "Allison Chains",
+        "department": "Human Resources",
+        "meetingTitle": "Reimbursement",
+        "meetingDate": "10/23/22"
+    },
+    {
+        "meetingText": "All new team members received the team handbook, reviewed contents, set time aside for questions",
+        "meetingHost": "Alexis Mejorado",
+        "department": "Engineering",
+        "meetingTitle": "Engineering Dept Introductions",
+        "meetingDate": "10/13/22"
+    },
+    {
+        "meetingText": "We will move to the new office very soon. All team members must be packed an ready to go by next Monday.",
+        "meetingHost": "Robert Blue",
+        "department": "Accounting",
+        "meetingTitle": "Accounting Dept Move",
+        "meetingDate": "09/25/22"
+    },
+    {
+        "meetingText": "Art Department will need to finalize all the details of the garden project by next week.",
+        "meetingHost": "Margaret Jones",
+        "department": "Art",
+        "meetingTitle": "Garden Project Ending",
+        "meetingDate": "08/26/22"
+    }
+]
