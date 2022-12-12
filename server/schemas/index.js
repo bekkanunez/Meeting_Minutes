@@ -1,0 +1,1 @@
+const resolvers = require('./resolvers');
