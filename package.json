@@ -2,5 +2,10 @@
     "name": "meeting-minutes",
     "version": "1.0.0",
     "description": "",
-    "main": "server/server.js"
+    "main": "server/server.js",
+    "dependencies": {
+        "axios": "^1.2.1",
+        "bootstrap": "^5.2.3",
+        "dotenv": "^16.0.3"
+    }
 }
