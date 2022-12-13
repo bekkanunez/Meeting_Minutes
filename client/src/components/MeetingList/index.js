@@ -29,11 +29,11 @@ const MeetingList = ({
                   </span>
                 </Link>
               ) : (
-                <>
+                <div>
                   <span style={{ fontSize: '1rem' }}>
                     You had this meeting on {meeting.meetingDate}
                   </span>
-                </>
+                </div>
               )}
             </h4>
             <div className="card-body p-2">

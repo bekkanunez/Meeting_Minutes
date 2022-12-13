@@ -353,6 +353,16 @@ body {
   min-height: 100%;
 }
 
+.home-section {
+  position: relative;
+  z-index: 0;
+  background-image: url(./assets/home-bg.webp);
+  background-position: top center;
+  background-repeat: no-repeat;
+  padding-bottom: 30px !important;
+  padding-top: 30px !important;
+}
+
 body {
   margin: 0;
   padding: 0;

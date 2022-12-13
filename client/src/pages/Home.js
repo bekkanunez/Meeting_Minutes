@@ -8,8 +8,7 @@ import { QUERY_MEETINGS } from '../utils/queries';
 
 const Home = () => {
   const { loading, data } = useQuery(QUERY_MEETINGS);
-  const meetings = data?.meetings
-    || [];
+  const meetings = data.meetings || [];
 
   return (
     <main>

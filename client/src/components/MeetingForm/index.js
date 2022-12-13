@@ -65,7 +65,7 @@ const MeetingForm = () => {
       <h3>Would you like to create a new meeting?</h3>
 
       {Auth.loggedIn() ? (
-        <>
+        <div>
           <form
             className="flex-row justify-center justify-space-between-md align-center py-2"
             onSubmit={handleFormSubmit}
@@ -138,7 +138,7 @@ const MeetingForm = () => {
               </div>
             )}
           </form>
-        </>
+        </div>
       ) : (
         <p>
           You need to be logged in to post and view meetings. Please{' '}

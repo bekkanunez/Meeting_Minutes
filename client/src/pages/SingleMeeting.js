@@ -15,7 +15,7 @@ const SingleMeeting = () => {
     variables: { meetingId: meetingId },
   });
 
-  const meeting = data?.meeting || {};
+  const meeting = data.meeting || {};
 
   if (loading) {
     return <div>Loading...</div>;
