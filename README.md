@@ -142,12 +142,4 @@ Project Link: [https://github.com/bekkanunez/Meeting_Minutes](https://github.com
 
 
 
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
