@@ -6,9 +6,10 @@ export const QUERY_USER = gql`
       _id
       username
       email
-      thoughts {
+      meetings {
         _id
-        thoughtText
+        meetingText
+        meetingDate
         createdAt
       }
     }
@@ -20,12 +21,24 @@ export const QUERY_MEETINGS = gql`
     meetings {
       _id
       meetingText
-      meetingAuthor
-      createdAt
+      meetingHost
+      department
+      meetingTitle
+      meetingDate
     }
   }
 `;
 
+export const QUERY_SINGLE_MEETING = gql`
+  query getSingleMeeting($meetingId: ID!) {
+    meeting(meetingId: $meetingId) {
+      _id
+      meetingText
+      meetingHost
+      createdAt
+    }
+  }
+`;
 
 export const QUERY_ME = gql`
   query me {
@@ -36,7 +49,7 @@ export const QUERY_ME = gql`
       meetings {
         _id
         meetingText
-        meetingAuthor
+        meetingDate
         createdAt
       }
     }

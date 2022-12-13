@@ -28,5 +28,20 @@
         "username": "Lola Blevins",
         "email": "lola.blevins@nu.com",
         "password": "AdminAssitant123"
+    },
+    {
+        "username": "Donnie Moy",
+        "email": "donnie.moy@nu.com",
+        "password": "Zendel123"
+    },
+    {
+        "username": "Tanner Jones",
+        "email": "tanner.jones@nu.com",
+        "password": "Jones123!"
+    },
+    {
+        "username": "Sue Kanary",
+        "email": "sue.kanary@nu.com",
+        "password": "Accounting123!"
     }
 ]
