@@ -69,11 +69,11 @@ Meeting_Minutes allows multiple users work on the same notes, and users never fi
 
 ## Built With
 
-* [![React][React.js]][React-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![Express.js][expressjs.com]][Express-url]
-* [![CSS3][css3.com]][CSS3-url]
-* [![VScode][/code.visualstudio.com]][VScode-url]
+* [![React]
+* [![Bootstrap]
+* [![Express.js]
+* [![CSS3]
+* [![VScode]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
