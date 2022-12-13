@@ -6,12 +6,12 @@ Meeting_Minutes provides time stamp, notes, meeting attendees and roles, with a 
 Unlock your meeting potential with Meeting_Minutes NOW @ [https://github.com/bekkanunez/Meeting_Minutes](https://github.com/bekkanunez/Meeting_Minutes)
 
 
-
-
 <h3 align="center">Meeting_Minutes</h3>
+<div align="left">
+  <!-- <img alt="Demo" src="./src/assets/portfolio.png" width="400"> -->
+</div>
 
   <p align="center">
-    project_description
     <br />
     <a href="https://github.com/bekkanunez/Meeting_Minutes"><strong>Explore the docs »</strong></a>
     <br />
@@ -44,8 +44,7 @@ Unlock your meeting potential with Meeting_Minutes NOW @ [https://github.com/bek
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#features">Features</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -68,11 +67,13 @@ Meeting_Minutes allows multiple users work on the same notes, and users never fi
 
 
 
-### Built With
+## Built With
 
-* [![React][React.js]][React-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [React]
+* [Bootstrap]
+* [Express.js]
+* [CSS3]
+* [VScode]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -81,81 +82,41 @@ Meeting_Minutes allows multiple users work on the same notes, and users never fi
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To set up your project locally: get a local copy up and running follow these simple example steps.
+Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
 
-### Prerequisites
+## 🛠 Installation and Setup Instructions
 
-This is how to use the software and how to install them.
+1. Installation: `npm install`
 
-* npm
-  ```sh
-  npm install 
-  ```
+2. In the project directory, run: `npm start`
 
-* npm
-  ```sh
-  npm start
-  ```
-
-### Installation
-
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/bekkanunez/Meeting_Minutes.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm install
-   ```
-
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The page will automatically reload if you make edits.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Ever find it hard to catch up on meetings or review meeting notes? Not anymore!
-Meeting_Minutes allows meeting attendees to note collaboratively (in a comment section) and the reference notes will be available for all attendees. 
-Meeting_Minutes provides time stamp, notes, meeting attendees and roles, with a meeting title, department (optional) and description. 
-
-
+Open the project folder and Navigate to `/src/components/`. <br/>
+You will find all the components used and you can edit your information accordingly.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- FEATURES -->
+## Features
 
-<!-- ROADMAP -->
-## Roadmap
+Meeting attendees can type their notes (in a comment section) into and reference notes later, it contains meeting minutes (time stamp), notes meeting attendees and role, provide meeting title, department (optional) and description
 
-meeting attendees can type their notes (in a comment section) into and reference notes later, it contains meeting minutes (time stamp), notes meeting attendees and role, provide meeting title, department (optional) and description
+**📖 Multi-Page Layout**
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+**🎨 Styled with React-Bootstrap and CSS with easy to customize colors**
+
+**📱 Fully Responsive**
 
 See the [open issues](https://github.com/bekkanunez/Meeting_Minutes/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -171,9 +132,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
-
-feitieng86@gmail.com
+## Collaborators
+Drew Parker, Rebecca Nunez, Leslie Villalobos, Ikechukwu Nwachukwu, Thomas Chao
 
 
 Project Link: [https://github.com/bekkanunez/Meeting_Minutes](https://github.com/bekkanunez/Meeting_Minutes)
@@ -191,54 +151,3 @@ Project Link: [https://github.com/bekkanunez/Meeting_Minutes](https://github.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-# Meeting-Minutes 
-
-<div align="left">
-  <!-- <img alt="Demo" src="./src/assets/portfolio.png" width="400"> -->
-</div>
-
-## Description
-
-Application that meeting attendees can type their notes (in a comment section) into and reference. The app contains meeting minutes (time stamp), notes meeting attendees and roles of attendees, provide meeting title, department (optional) and description.
-
-## Built With
-
-The following tech was implemented to build this portfolio:
-
-- React.js
-- Node.js
-- Express.js
-- CSS3
-- VsCode
-
-## Features
-
-**📖 Multi-Page Layout**
-
-**🎨 Styled with React-Bootstrap and CSS with easy to customize colors**
-
-**📱 Fully Responsive**
-
-## Getting Started
-
-Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
-
-## 🛠 Installation and Setup Instructions
-
-1. Installation: `npm install`
-
-2. In the project directory, run: `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will automatically reload if you make edits.
-
-## Usage Instructions
-
-Open the project folder and Navigate to `/src/components/`. <br/>
-You will find all the components used and you can edit your information accordingly.
-
-## Collaborators
-
-Drew Parker, Rebecca Nunez, Leslie Villalobos, Ikechukwu Nwachukwu, Thomas Chao
