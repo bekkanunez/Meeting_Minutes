@@ -1,0 +1,47 @@
+[
+    {
+        "username": "Alexis.Mejorado",
+        "email": "alexis.mejorado@nu.com",
+        "password": "ENGINEering47"
+    },
+    {
+        "username": "Allison.Chains",
+        "email": "allison.chains@nu.com",
+        "password": "HumanResources13"
+    },
+    {
+        "username": "Robert.Blue",
+        "email": "robert.blue@nu.com",
+        "password": "AccounTing123"
+    },
+    {
+        "username": "Margaret.Jones",
+        "email": "margaret.jones@nu.com",
+        "password": "ArtingArt23"
+    },
+    {
+        "username": "Dane Brannigan",
+        "email": "dane.brannigan@nu.com",
+        "password": "customerService456"
+    },
+    {
+        "username": "Lola Blevins",
+        "email": "lola.blevins@nu.com",
+        "password": "AdminAssitant123"
+    },
+    {
+        "username": "Donnie Moy",
+        "email": "donnie.moy@nu.com",
+        "password": "Zendel123"
+    },
+    {
+        "username": "Tanner Jones",
+        "email": "tanner.jones@nu.com",
+        "password": "Jones123!"
+    },
+    {
+        "username": "Sue Kanary",
+        "email": "sue.kanary@nu.com",
+        "password": "Accounting123!"
+    }
+]

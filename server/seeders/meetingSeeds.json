@@ -1,0 +1,44 @@
+[
+    {
+        "meetingText": "Art Department will need to finalize all the details of the garden project by next week.",
+        "meetingHost": "Margaret Jones",
+        "department": "Art",
+        "meetingDate": "12/22/22",
+        "meetingTime": "3 pm"
+    },
+    {
+        "meetingText": "Depreciation Schedule for year end '22",
+        "meetingHost": "Sue Kanary",
+        "department": "Accounting",
+        "meetingDate": "12/15/22",
+        "meetingTime": "4 pm"
+    },
+    {
+        "meetingText": "YTD Earnings for outside sales",
+        "meetingHost": "Sue Kanary",
+        "department": "Accounting",
+        "meetingDate": "12/15/22",
+        "meetingTime": "12 pm"
+    },
+    {
+        "meetingText": "Sales Quota forecasting for 2023",
+        "meetingHost": "Tanner Jones",
+        "department": "Sales",
+        "meetingDate": "12/14/22",
+        "meetingTime": "3 pm"
+    },
+    {
+        "meetingText": "Marketing Budget for Q1 of 2023",
+        "meetingHost": "Donnie Moy",
+        "department": "Marketing",
+        "meetingDate": "12/14/22",
+        "meetingTime": "12 pm"
+    },
+    {
+        "meetingText": "Today we reviewed the timetable for the new project. All roles have been established and ideas will be shared at following meeting. Everyone will reconvene in person at 4pm.",
+        "meetingHost": "Allison Chains",
+        "department": "Human Resources",
+        "meetingDate": "12/13/22",
+        "meetingTime": "12 pm"
+    }
+]
