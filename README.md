@@ -6,12 +6,6 @@ Unlock your meeting potential with Meeting_Minutes NOW @ [https://github.com/bek
 
 
 
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/bekkanunez/Meeting_Minutes">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">Meeting_Minutes</h3>
 
