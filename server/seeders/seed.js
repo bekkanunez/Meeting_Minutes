@@ -10,10 +10,10 @@ db.once('open', async () => {
 
     await User.create(userSeeds);
 
-    for (let i = 0; i < thoughtSeeds.length; i++) {
-      const { _id, meetingAuthor } = await Meeting.create(meetingSeeds[i]);
+    for (let i = 0; i < meetingSeeds.length; i++) {
+      const { _id, meetingHost } = await Meeting.create(meetingSeeds[i]);
       const user = await User.findOneAndUpdate(
-        { username: meetingAuthor },
+        { username: meetingHost },
         {
           $addToSet: {
             meetings: _id,
